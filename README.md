@@ -7,6 +7,10 @@
 ## Overview
 Only about half of clinical trials run globally have ever been registered, let alone outcomes reported. This finding was confirmed by NEJM's Anderson et al., 2015, where Dr. Robert Califf, our FDA commissioner, reported that only 13% of clinical trials comply with the FDAAA 2007. This causes bias in the medical literature, which undermines both medicine and research. When the[ media reports on this lack of transparency](https://www.statnews.com/2015/12/13/clinical-trials-investigation/) in medical research, we risk[ losing the trust](https://well.blogs.nytimes.com/2016/01/15/living-with-cancer-a-broken-covenant-with-patients/) of patients and the public. 
 
+## Materials
+The slidedeck and speaker notes are available [here](https://docs.google.com/presentation/d/1FD2pRFjVst8L1D3mmxazlnqyPpnmoHCPXJHHyXJq3jc/edit?usp=sharing).
+
+## Objectives
 This workshop:
 * Describes the current state of clinical trial transparency in the US, including relevant policies
 * Outlines concrete steps for investigators and academic leaders to increase transparency in their research and at their institution
