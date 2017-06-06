@@ -1,4 +1,4 @@
-#SigmaXi2017
+# SigmaXi2017
 
 [AllTrials USA](http://www.senseaboutscienceusa.org/alltrials/) aims to have every clinical trial - past, present and future - registered with[ clinicaltrials.gov](http://clinicaltrials.gov/) and summary data reported. According to a meta-analysis by the UK government, only about half of clinical trials run globally have ever been registered, let alone outcomes reported. This finding was confirmed by NEJM's[ Anderson et al., 2015](http://www.nejm.org/doi/full/10.1056/NEJMsa1409364), where Dr. Robert Califf, our FDA commissioner, reported that only 13% of clinical trials comply with the FDAAA 2007. 
 
